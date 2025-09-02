@@ -89,15 +89,15 @@ I structured the work into **four main tasks**, building step by step from raw d
 
 
 ## 📂 Repository Structure
+
 ```bash
 ├── EDA_SummaryReport_Shaik_Kamoosh_Baba_Task1.docx
 ├── Task 2_ModelPlan_Shaik_Kamoosh_Baba.docx
 ├── Updated_Business_Summary_Report_Template.docx
 ├── AI_Powered_Collections_System_Shaik_Kamoosh_Baba.pptx
 ├── Delinquency_prediction_dataset.csv
-├── README.md  <-- (this file)
----
----bash
+└── README.md  <-- (this file)
+
 
 
  *🚀 Key Learnings*
