@@ -1,11 +1,23 @@
 # Tata GenAI Powered Data Analytics – Collections Strategy Project
 
-This repository documents my end-to-end work on the **Tata GenAI Powered Data Analytics Job Simulation (Forage, Sept 2025)**.  
-The project applied **data analytics, predictive modeling, and agentic AI concepts** to design a responsible, scalable **collections strategy for Geldium Financial Services**.
+This repository contains my end-to-end work for the **Tata GenAI Powered Data Analytics Job Simulation (Forage – Sept 2025)**.  
+The project demonstrates how **data analytics, predictive modeling, and agentic AI** can be applied to design a responsible, scalable **collections strategy for Geldium Financial Services**.
 
 ---
 
-## 🔍 Project Approach
+## 📌 Project Overview
+
+The project was approached step by step:
+
+1. **Exploratory Data Analysis (EDA):** Understand data quality, identify missing values, and explore delinquency risk factors.  
+2. **Predictive Modeling Framework:** Propose model types, evaluation metrics, and risk segmentation.  
+3. **Business Report & Recommendations:** Translate predictive insights into SMART, actionable strategies for collections.  
+4. **AI-Powered Collections System:** Design an agentic AI-driven workflow, guardrails, and business impact framework.
+
+---
+
+
+## 📝 Tasks Completed
 
 I structured the work into **four main tasks**, building step by step from raw data to a fully automated AI-powered collections framework.
 
@@ -90,40 +102,44 @@ I structured the work into **four main tasks**, building step by step from raw d
 
 ## 📂 Repository Structure
 
-```
+```bash
 ├── EDA_SummaryReport_Shaik_Kamoosh_Baba_Task1.docx
 ├── Task 2_ModelPlan_Shaik_Kamoosh_Baba.docx
 ├── Updated_Business_Summary_Report_Template.docx
 ├── AI_Powered_Collections_System_Shaik_Kamoosh_Baba.pptx
 ├── Delinquency_prediction_dataset.csv
 └── README.md  <-- (this file)
+```
+
 ---
 
-
-
-
- *🚀 Key Learnings*
+## 🚀 Key Learnings
 
 - How to bridge **data insights and business strategy**.  
 - Designing AI systems with **fairness, explainability, and compliance** at the core.  
 - The importance of combining **predictive modeling with human oversight** in financial decision-making.  
-- Presenting **AI-driven recommendations in plain language** for stakeholders.  
+- Presenting **AI-driven recommendations in plain language** for non-technical stakeholders.  
 
 ---
 
-## 🧑‍💻 Skills Applied
+## 👩‍💻 Skills Applied
+
 - Exploratory Data Analysis (EDA)  
 - Predictive Modeling & Risk Scoring  
 - Business Communication & Storytelling  
-- AI Strategy & Automation Planning  
-- Ethical AI & Regulatory Awareness  
+- AI Strategy Design & Automation Planning  
+- Regulatory Awareness (ECOA, GDPR, FCA, FCRA)  
+- Ethical AI & Responsible Decision-Making  
 - Strategic Thinking & Decision Justification  
+
+---
+
 
 ---
 
 ## 🌟 Conclusion
 
-This project demonstrates the full lifecycle of applying **AI to financial risk management**:  
-from raw data analysis → predictive modeling → stakeholder reporting → designing an **AI-powered collections system**.  
+This project shows the **full lifecycle of applying AI in financial services**:  
+from data analysis → predictive modeling → storytelling → designing a responsible, scalable **agentic AI system**.  
 
-It shows how **analytics can create business impact** when translated into **clear, responsible, and scalable AI solutions**.  
+It highlights how analytics can deliver **real-world business impact** when combined with **fairness, compliance, and customer-centric strategy**.
